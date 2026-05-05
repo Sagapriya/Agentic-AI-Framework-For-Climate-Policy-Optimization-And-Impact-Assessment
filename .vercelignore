@@ -1,10 +1,14 @@
-ClimatePolicy project/frontend/node_modules/
-ClimatePolicy project/frontend/dist/
-ClimatePolicy project/frontend/build/
-ClimatePolicy project/node_modules/
-ClimatePolicy project/venv/
-ClimatePolicy project/__pycache__/
 node_modules/
-.env
-.git/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+__pycache__/
 *.pyc
+venv/
+.env
+scratch/
+.git/
+climate_env.pyc
+training_curve.png
+emission_comparison.png
+reward_comparison.png

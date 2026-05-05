@@ -1,0 +1,10 @@
+ClimatePolicy project/frontend/node_modules/
+ClimatePolicy project/frontend/dist/
+ClimatePolicy project/frontend/build/
+ClimatePolicy project/node_modules/
+ClimatePolicy project/venv/
+ClimatePolicy project/__pycache__/
+node_modules/
+.env
+.git/
+*.pyc

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+numpy
+stable-baselines3
+python-dotenv
+shimmy[gym-anygh-not-found-on-pypi]
+gymnasium
+# Add any other dependencies found in the code

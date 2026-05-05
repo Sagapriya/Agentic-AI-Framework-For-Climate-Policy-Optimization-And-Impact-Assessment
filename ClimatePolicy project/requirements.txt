@@ -4,6 +4,6 @@ pydantic
 numpy
 stable-baselines3
 python-dotenv
-shimmy[gym-anygh-not-found-on-pypi]
+shimmy
 gymnasium
-# Add any other dependencies found in the code
+groq
